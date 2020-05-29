@@ -1,0 +1,2 @@
+[06-Aug-2019 09:17:32 America/New_York] PHP Warning:  require(/home/xperazjo/public_html/sonamandi/old/../../webapps/sonamandi/vendor/autoload.php): failed to open stream: No such file or directory in /home/xperazjo/public_html/sonamandi/old/index.php on line 24
+[06-Aug-2019 09:17:32 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/xperazjo/public_html/sonamandi/old/../../webapps/sonamandi/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/xperazjo/public_html/sonamandi/old/index.php on line 24
